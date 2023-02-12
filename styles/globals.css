@@ -288,7 +288,6 @@ button {
 }
 
 .review__img {
-	width: 6rem;
 	border-radius: 100%;
 	padding: 2px;
 	border: 3px solid var(--first-color-alt);
@@ -331,7 +330,6 @@ button {
 }
 
 .product__img {
-	width: 300px;
 	border-radius: 0.5rem;
 	margin-bottom: var(--mb-0-5);
 	align-self: center;

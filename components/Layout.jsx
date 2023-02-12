@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
 			<main className="main">{children}</main>
 			<footer className="footer section">
 				<Footer />
-				<span className="footer__copy">©вАу Десерт</span>
+				<span className="footer__copy">©вАУ Десерт</span>
 			</footer>
 		</div>
 	)

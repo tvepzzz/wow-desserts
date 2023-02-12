@@ -5,7 +5,8 @@ const ReviewCard = ({ review }) => {
 		<div className="review__card">
 			<img
 				src={urlFor(review.customerImg)}
-				width={60}
+				width={90}
+				height={90}
 				alt="Customer image"
 				className="review__img"
 			/>

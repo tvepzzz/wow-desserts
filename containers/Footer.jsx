@@ -8,12 +8,12 @@ const Footer = () => {
 				<Link href="/">
 					<img src="/logo.png" alt="logo" className="nav__logo" />
 				</Link>
-				<p className="footer__name">wOW Desserts</p>
+				<p className="footer__name">вАУ Десерт</p>
 			</div>
 
 			<div className="footer__nav">
 				<div>
-					<h3 className="footer__title">Social</h3>
+					<h3 className="footer__title">Соціальні мережі</h3>
 					<ul className="footer__links">
 						<li>
 							<a
@@ -49,7 +49,7 @@ const Footer = () => {
 				</div>
 
 				<div>
-					<h3 className="footer__title">Navigation</h3>
+					<h3 className="footer__title">Навігація</h3>
 					<ul className="footer__links">
 						<li>
 							<Link href="/" className="footer__link">
