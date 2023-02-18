@@ -30,7 +30,7 @@ const Navbar = () => {
 						className="nav__link"
 						onClick={handleShowed}
 					>
-						<li>Контакти</li>
+						<li>Про нас</li>
 					</Link>
 				</ul>
 
