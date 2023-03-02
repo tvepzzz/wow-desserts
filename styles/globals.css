@@ -493,6 +493,11 @@ button {
 	margin-bottom: var(--mb-2-5);
 }
 
+.rules__link {
+	text-decoration: underline;
+	color: var(--first-color-alt);
+}
+
 /* FOOTER */
 
 .footer {

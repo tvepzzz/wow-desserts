@@ -42,7 +42,7 @@ const ProductPage = ({ product, products }) => {
 			</div>
 
 			<div className="product__like__container">
-				<h2>Вам може сподобатись:</h2>
+				<h2>Популярні десерти:</h2>
 
 				<div ref={sliderRef} className="keen-slider">
 					{products?.map(product => {
