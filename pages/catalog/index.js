@@ -4,9 +4,7 @@ import { client } from '../../lib/client'
 const Catalog = ({ products }) => {
 	return (
 		<section className="section container">
-			<h1 className="section__title">
-				Обирайте десерти які вам до смаку:
-			</h1>
+			<h1 className="section__title">Популяоні десерти:</h1>
 
 			<div className="catalog__container grid">
 				{products?.map(product => (

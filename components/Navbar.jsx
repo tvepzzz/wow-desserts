@@ -26,11 +26,11 @@ const Navbar = () => {
 						<li>Каталог</li>
 					</Link>
 					<Link
-						href="/#contact"
+						href="/orderRules"
 						className="nav__link"
 						onClick={handleShowed}
 					>
-						<li>Про нас</li>
+						<li>Правила замовлення</li>
 					</Link>
 				</ul>
 

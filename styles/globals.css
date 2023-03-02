@@ -478,6 +478,21 @@ button {
 	margin-bottom: var(--mb-1);
 }
 
+/* Order rules */
+
+.rules__title {
+	font-size: var(--h2-font-size);
+	margin-bottom: var(--mb-2);
+}
+
+.rules__list {
+	display: flex;
+	flex-direction: column;
+	font-size: var(--h3-font-size);
+	gap: 1rem;
+	margin-bottom: var(--mb-2-5);
+}
+
 /* FOOTER */
 
 .footer {

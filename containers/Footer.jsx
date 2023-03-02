@@ -53,12 +53,17 @@ const Footer = () => {
 					<ul className="footer__links">
 						<li>
 							<Link href="/" className="footer__link">
-								Home
+								Головна
 							</Link>
 						</li>
 						<li>
 							<Link href="/catalog" className="footer__link">
-								Catalog
+								Каталог
+							</Link>
+						</li>
+						<li>
+							<Link href="/catalog" className="footer__link">
+								Правила замовлення
 							</Link>
 						</li>
 					</ul>
