@@ -1,6 +1,6 @@
 # Dessert website
 
-### This is the first version of this site, in the future I will make this site with TypeScript and Backend which I have never used before, add the ability to register, comment and search desserts,  etc.; add animations to this site for smooth use
+### This is the first version of this site, in the future I will make this site with TypeScript and Backend which I have never used before, add the ability to register, comment and search desserts,  etc.; add animations to this site for smooth
 
 ### But for now, you can visit the current simple version of my project 👇
 ## [Visit](https://anastasiya-desserts.vercel.app/) 🦅
