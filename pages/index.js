@@ -1,11 +1,11 @@
-import { Hero, WhyWe, Popular, CTA } from '../containers'
+import { CTA, Hero, Popular } from '../containers'
 import { client } from '../lib/client'
 
 export default function Home({ products, advantage, seasonalBanner }) {
 	return (
 		<div>
 			<Hero />
-			<WhyWe advantage={advantage} />
+			{/* <WhyWe advantage={advantage} /> */}
 			<Popular products={products} banner={seasonalBanner} />
 			<CTA />
 		</div>
