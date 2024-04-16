@@ -27,7 +27,7 @@ const Footer = () => {
 						</li>
 						<li>
 							<a
-								href='https://www.instagram.com/anastasiyaushenok2427/?hl=ru'
+								href='https://www.instagram.com/anastasiya_desserts/'
 								className='footer__link'
 								target='_blank'
 							>
