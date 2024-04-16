@@ -34,7 +34,7 @@ const CTA = () => {
 						стіл буде на вищому рівні!
 					</p>
 					<a
-						href='https://www.instagram.com/anastasiya_desserts/'
+						href='https://www.instagram.com/anastasiya_desserts'
 						target='_blank'
 					>
 						<Button text='Перейти в наш інстаграм' />
